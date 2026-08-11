@@ -4,7 +4,7 @@
   "logo_url": "https://i.postimg.cc/KYSJsSTq/radio-image.png",
   "background_url": "https://i.postimg.cc/nr1r5cxQ/images.jpg",
   "bg_tint_color": "#00254b",
-  "bg_tint_opacity": 0.90,
+  "bg_tint_opacity": 0.50,
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#09001d",
   "accent_color": "#000d13",
