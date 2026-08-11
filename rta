@@ -1,0 +1,104 @@
+{
+  "stream_url": "https://srv8.ipstm.net:34786/;",
+  "app_name": "Radio Tecno Audio (RTA)",
+  "logo_url": "https://i.postimg.cc/KYSJsSTq/radio-image.png",
+  "background_url": "https://i.postimg.cc/fR4cM7bw/classic512.png",
+  "bg_tint_color": "#00254d",
+  "bg_tint_opacity": 0.90,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#09001d",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": false,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+  
+
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://tecnoaudiofm.web-radios.net/public/img/anuncio/a8fb5f70e587502b274dc1b4cadb8fc9.png",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://tecnoaudiofm.web-radios.net/public/img/anuncio/ae4ac075b3d970e3af29a1795b0e8952.png",
+      "click_url": " https://wa.me/5577999949594 "
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://tecnoaudiofm.web-radios.net/public/img/fotos/1ea5478edde18ae4080fd621e5eb94d2.png",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://tecnoaudiofm.web-radios.net/public/img/anuncio/d0b7c576845e1e181d05de6a22311dc3.jpg",
+      "click_url": " "
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://tecnoaudiofm.web-radios.net/public/img/fotos/cbdd0f73014c352309d15e30871bee44.png",
+      "click_url": " "
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://tecnoaudiofm.web-radios.net/public/img/fotos/cbdd0f73014c352309d15e30871bee44.png",
+      "click_url": " "
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://tecnoaudiofm.web-radios.net/public/img/fotos/cbdd0f73014c352309d15e30871bee44.png",
+      "click_url": " "
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://tecnoaudiofm.web-radios.net/public/img/fotos/cbdd0f73014c352309d15e30871bee44.png",
+      "click_url": " "
+    }
+  ],
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://wa.me/5577999949594"
+    },
+    {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/eletronica_tecno_audio"
+    },
+    {
+      "icon": "website",
+      "url": "https://tecnoaudiofm.web-radios.net/"
+    }
+  ]
+}
