@@ -4,7 +4,103 @@
   "logo_url": "https://i.postimg.cc/KYSJsSTq/radio-image.png",
   "background_url": "https://i.postimg.cc/25nKf5kt/images-(2).jpg",
   "bg_tint_color": "#00",
+  "bg_tint_opacity": 0.70,{
+  "stream_url": "https://srv8.ipstm.net:34786/;",
+  "app_name": "Radio Tecno Audio (RTA)",
+  "logo_url": "https://i.postimg.cc/KYSJsSTq/radio-image.png",
+  "background_url": "https://i.postimg.cc/25nKf5kt/images-(2).jpg",
+  "bg_tint_color": "#00",
   "bg_tint_opacity": 0.70,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#09001d",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": true,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+  
+
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://https://i.postimg.cc/q7FL5hCQ/2ba76fbc3caa479dce33a89dfdcdbf64.jpg",
+      "click_url": "https://wa.me/5577998412622 "
+    }, 
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/q7FL5hCQ/2ba76fbc3caa479dce33a89dfdcdbf64.jpg",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/q7FL5hCQ/2ba76fbc3caa479dce33a89dfdcdbf64.jpg",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://tecnoaudiofm.web-radios.net/public/img/fotos/1ea5478edde18ae4080fd621e5eb94d2.png",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 5",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://tecnoaudiofm.web-radios.net/public/img/anuncio/d0b7c576845e1e181d05de6a22311dc3.jpg",
+      "click_url": " "
+    },
+    {
+      "title": 6",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/q7FL5hCQ/2ba76fbc3caa479dce33a89dfdcdbf64.jpg",
+      "click_url": " "
+    },
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/T3XBtSXK/de3c1547a19da9d028a5521df7ab0315.png",
+      "click_url": " "
+    },
+  ],
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://wa.me/5577999949594"
+    },
+    {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/eletronica_tecno_audio"
+    },
+    {
+      "icon": "website",
+      "url": "https://tecnoaudiofm.web-radios.net/"
+    }
+  ]
+}
   "live_badge_text": " Ao Vivo",
   "live_badge_color": "#09001d",
   "accent_color": "#000d13",
