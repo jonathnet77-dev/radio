@@ -30,7 +30,14 @@
       "image_url": "https://tecnoaudiofm.web-radios.net/public/img/anuncio/a8fb5f70e587502b274dc1b4cadb8fc9.png",
       "click_url": "https://wa.me/5577998412622 "
     },
-    
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/q7FL5hCQ/2ba76fbc3caa479dce33a89dfdcdbf64.jpg",
+      "click_url": " "
+    },
     {
       "title": "PATROCINADOR 3",
       "subtitle": "Clique e fale no WhatsApp",
